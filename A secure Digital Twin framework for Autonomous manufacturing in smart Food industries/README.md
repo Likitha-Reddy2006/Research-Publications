@@ -1,1 +1,1 @@
-
+This research paper proposes a secure Digital Twin framework for autonomous manufacturing in smart food industries, integrating Digital Twin technology with AI, IoT, and cybersecurity mechanisms. It focuses on improving real-time monitoring, predictive maintenance, operational efficiency, and security in smart food manufacturing environments.
