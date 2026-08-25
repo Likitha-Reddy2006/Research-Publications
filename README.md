@@ -1,0 +1,1 @@
+This repository contains my research papers, publications, review papers, and academic research work developed throughout my academic journey. It serves as a centralized collection of my research contributions in areas such as AI/ML, IoT, Cyber-Physical Systems, Smart Agriculture, and Digital Twins.
